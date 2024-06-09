@@ -25,13 +25,13 @@ export const projects = [
     },
     {
         title: "Ticket App",
-        description: "Description for project 2.",
+        description: "If-else statements practice project.",
         image: "./assets/ticket_app_thumbnail.png",
         url: "https://studio.code.org/projects/applab/KNoqYHL9nI_C-KUWjKAMiSAzZUPLJ6CIL3ecqVTbFiA"
     },
     {
         title: "Tic Tac Toe",
-        description: "Description for project 3.",
+        description: "Play against your friends!",
         image: "./assets/tic_tac_toe_thumbnail.png",
         url: "https://studio.code.org/projects/applab/KNoqYHL9nI_C-KUWjKAMiYvKGAhL12KB31v-ZyVkTpo"
     },
@@ -43,31 +43,31 @@ export const projects = [
     },
     {
         title: "Sentence Randomizer",
-        description: "Description for project 2.",
+        description: "Generate sentence with random font style and color.",
         image: "./assets/sentence_randomizer_thumbnail.png",
         url: "https://studio.code.org/projects/applab/PwqCD-Cd-Oi3VMk5XhbJbjizSxjl9iFH_Gi6haV_HN0"
     },
     {
         title: "Screen Locker App",
-        description: "Description for project 3.",
+        description: "Simulate the phone's screen lock feature.",
         image: "./assets/screen_locker_app_thumbnail.png",
         url: "https://studio.code.org/projects/applab/PwqCD-Cd-Oi3VMk5XhbJbhzD5t1uq9K4ujAxDW0K59Y"
     },
     {
         title: "Rock Paper Scissors",
-        description: "Description for project 1.",
+        description: "Play against the computer, and the one who gets 10 wins first wins!",
         image: "./assets/rock_paper_scissors_thumbnail.png",
         url: "https://studio.code.org/projects/applab/PwqCD-Cd-Oi3VMk5XhbJbu7M-MAC_DK0xqpTuqKwuc0"
     },
     {
         title: "RemindME",
-        description: "Description for project 2.",
+        description: "An app that reminds you to do something by adding a reminder to a list.",
         image: "./assets/remind_me_thumbnail.png",
         url: "https://studio.code.org/projects/applab/PwqCD-Cd-Oi3VMk5XhbJbpu0l7aO05tMYsf2lvVkWbQ"
     },
     {
         title: "Reminder App",
-        description: "Description for project 3.",
+        description: "Keep track of your to-dos and reminders with this app.",
         image: "./assets/reminder_app_thumbnail.png",
         url: "https://studio.code.org/projects/applab/PwqCD-Cd-Oi3VMk5XhbJbjT8Nsi5_963nK3EDSjWfVU"
     },
